@@ -117,7 +117,7 @@ def check_pass(pw, email, username):
             upper = True
         if c in string.digits:
             number = True
-    if not upper and lower and number and letter:
+    if not (upper and lower and number):
         errors.append("Your password must contain at least one uppercase letter, one lowercase letter, and one number")
     if pw.lower() == email.lower() or pw.lower() == username.lower():
         errors.append("Your password must not be the same as your username or email address")
