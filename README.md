@@ -20,4 +20,10 @@ Please don't actually use this.
 So quit doing it. Use a password manager. I personally recommend
 [pass](https://www.passwordstore.org/).
 
+## Side note
+
+If you're actually checking user's password strength on sign up, I strongly
+suggest using a minimum entropy instead of contrived rules like this. I also
+suggest not trying to log into your user's account on other sites.
+
 [![](https://sr.ht/NAC4.png)](https://www.xkcd.com/792/)
