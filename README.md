@@ -19,3 +19,5 @@ Please don't actually use this.
 
 So quit doing it. Use a password manager. I personally recommend
 [pass](https://www.passwordstore.org/).
+
+[![](https://sr.ht/NAC4.png)](https://www.xkcd.com/792/)
