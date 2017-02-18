@@ -26,4 +26,13 @@ If you're actually checking user's password strength on sign up, I strongly
 suggest using a minimum entropy instead of contrived rules like this. I also
 suggest not trying to log into your user's account on other sites.
 
-[![](https://sr.ht/NAC4.png)](https://www.xkcd.com/792/)
+## Future development
+
+* Automate use of proxies to avoid rate limiting and other things external
+  services might do when they detect you're doing this
+* Add other external services to check (I spent about 5 minutes on Google before
+  I decided it wasn't worth the time required to reverse engineer their login
+  flow, but it might be the most valuable account to try)
+* ~~Store valid credentials in a database for evil purposes~~
+
+https://www.xkcd.com/792/
