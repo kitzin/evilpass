@@ -106,7 +106,7 @@ checks = {
 
 def check_pass(pw, email, username):
     errors = list()
-    # benine part
+    # benign part
     if len(pw) < 8:
         errors.append("Your password must be at least 8 characters long")
     upper = False, lower = False, number = False
