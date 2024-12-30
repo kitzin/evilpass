@@ -1,4 +1,4 @@
-# Slightly evil password strength checker (ORIGINAL FORK FROM SIRCMPWN BEFORE HE REMOVED GITHUB ACCOUNT?) see [https://git.sr.ht/~sircmpwn/evilpass](https://git.sr.ht/~sircmpwn/evilpass)
+# Slightly evil password strength checker (ORIGINALLY FORKED FROM SIRCMPWN BEFORE HE REMOVED GITHUB ACCOUNT?) see [https://git.sr.ht/~sircmpwn/evilpass](https://git.sr.ht/~sircmpwn/evilpass)
 
 Checks how strong your user's password is via questionably ethical means.
 
